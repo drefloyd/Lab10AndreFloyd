@@ -24,4 +24,3 @@ public class SelectionSort {
         return x;
     }
 }
-
